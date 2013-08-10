@@ -58,9 +58,9 @@ Controls:
 
 
 The project has been converted to Unity 4.
-* Download Windows version (7.29 MB): https://github.com/filippsen/sixteen/releases/download/1.0-win/sixteen-win.zip
-* Download Linux version (17.3 MB): https://github.com/filippsen/sixteen/releases/download/1.0-linux/sixteen-linux.zip
-* Download Mac version (20.47 MB): https://github.com/filippsen/sixteen/releases/download/1.0-mac/sixteen-mac.zip
+* Download Windows version (7.29 MB): 
+* Download Linux version (17.3 MB): 
+* Download Mac version (20.47 MB): 
 
 
 License
