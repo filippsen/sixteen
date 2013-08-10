@@ -66,4 +66,5 @@ The project has been converted to Unity 4. The following releases were built wit
 License
 -------
 Source code is released into the public domain. Read the LICENSE file.
+
 All the binary files related to CHIP-8 (games located inside the Resources folder) are reportedly to be placed in the public domain.
