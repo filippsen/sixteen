@@ -31,12 +31,10 @@ I ended up mapping it to the folling keyboard layout:
 |Z | X | C | V |
 
 
-
-
-
 Downloads
 --------
-* Check the original web version: http://filippsen.github.io/sixteen/sixteen.html
+* Check out the original web version: http://filippsen.github.io/sixteen/sixteen.html
+* Download the original web version (27 KB): https://github.com/filippsen/sixteen/releases/download/original-web/sixteen-web.zip
 
 Controls:
 |1 | 2 | 3 | 4 |
@@ -46,12 +44,12 @@ Controls:
 
 
 The project has been converted to Unity 4. The following releases were built with Unity 4.2 Pro Trial:
-* Download Windows version: 
-* Download Linux version: 
-* Download Mac version: 
+* Download Windows version (7.29 MB): https://github.com/filippsen/sixteen/releases/download/1.0-win/sixteen-win.zip
+* Download Linux version (17.3 MB): https://github.com/filippsen/sixteen/releases/download/1.0-linux/sixteen-linux.zip
+* Download Mac version (20.47 MB): https://github.com/filippsen/sixteen/releases/download/1.0-mac/sixteen-mac.zip
 
 
 License
 -------
 Source code is released into the public domain. Read the LICENSE file.
-All the binary files related to chip-8 (games located inside the Resources folder) are reportedly known to be placed in the public domain.
+All the binary files related to CHIP-8 (games located inside the Resources folder) are reportedly to be placed in the public domain.
