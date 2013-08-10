@@ -11,9 +11,8 @@ It was one of those Sunday midnight coding I run often times. This one was from 
 
 How
 ----
-_Trivia :sunday night coding. Powered by Murphy's Irish Red Beer :)_
 
-It leveraged the CHIP-8 virtual machine especification and its games.
+It leverages the CHIP-8 virtual machine especification and its games.
 I implemented the emulator for interpreting CHIP-8 games and shrank it down to 16KB.
 I used Unity 3.4 back then. At that time I was really aware of Unity web engine footprint so I thought I could shoot for 16KB.
 There was still a corcern about the sound effects though, mostly because of the lack of low-level sfx access on there.
