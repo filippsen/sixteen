@@ -39,6 +39,10 @@ I ended up mapping it to the folling keyboard layout:
 |Z | X | C | V |
 
 
+Build
+----
+The project has been converted to Unity 4.2. Unity Pro is required.
+
 
 Downloads
 --------
@@ -54,13 +58,6 @@ Controls:
 |A | S | D | F |
 
 |Z | X | C | V |
-
-
-
-The project has been converted to Unity 4.
-* Download Windows version (7.29 MB): 
-* Download Linux version (17.3 MB): 
-* Download Mac version (20.47 MB): 
 
 
 License
