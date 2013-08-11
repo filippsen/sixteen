@@ -41,7 +41,7 @@ I ended up mapping it to the folling keyboard layout:
 
 Build
 ----
-The project has been converted to Unity 4.2. Unity Pro is required.
+The project has been converted to Unity 4.2. Works with both Unity Free and Pro versions.
 
 
 Downloads
